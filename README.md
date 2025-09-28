@@ -38,5 +38,5 @@ I practiced the basic Git workflow: creating a branch, editing files, committing
 I also discovered how to improve a README file by writing in Markdown and adding both online and local images.  
 Finally, I now feel more comfortable with GitHub Desktop and the idea of version control.  
 
-This work took me around 3 hours to complete, and it was a good mix of challenges and discoveries.  
+This work took me around 3 hours to complete
 
