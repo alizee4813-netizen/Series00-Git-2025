@@ -1,11 +1,12 @@
-# MAM2ADMM - Série 00 Git
+# MAM2ADMM – Series00 Git - Alizée MARTIN
 
-Ce dépôt a été créé dans le cadre du cours MAM2ADMM, série 00 (Git).
+# MAM2ADMM – Series00 Git
 
-## Objectifs
-- Découvrir et maîtriser les commandes de base de Git.
-- Apprendre à utiliser GitHub avec VS Code.
-- Comprendre le fonctionnement des branches, commits et pull requests.
+# Introduction
 
-## Auteur
-Pseudo GitHub : alizee4813-metizen  
+This is a repository to learn-by-doing the basics of Git and GitHub.  
+I had never used Git or GitHub before this course, so I am a complete beginner.  
+I am looking forward to learning more about Git and GitHub to use it effectively for my projects.  
+
+
+
