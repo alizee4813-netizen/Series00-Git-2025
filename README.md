@@ -24,8 +24,19 @@ R will help me a lot with statistics and data analysis, which I sometimes find d
 Git is new for me, but I already see how important it is to keep track of my work.  
 Overall, I hope these tools will make me more confident and independent as a student.  
 
-## Local Image
+# Local Image
 
 Here is a bird image stored locally in my repository:
 
 ![Local bird](images/bird-local.png)
+
+# Summary of what I have learned
+
+Through this assignment, I learned how to create a repository on GitHub and clone it on my computer.  
+I understood the main concepts of branches, commits and push, and how they make collaboration easier.  
+I practiced the basic Git workflow: creating a branch, editing files, committing changes and publishing them.  
+I also discovered how to improve a README file by writing in Markdown and adding both online and local images.  
+Finally, I now feel more comfortable with GitHub Desktop and the idea of version control.  
+
+This work took me around 3 hours to complete, and it was a good mix of challenges and discoveries.  
+
